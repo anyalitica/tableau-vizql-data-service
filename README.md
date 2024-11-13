@@ -1,7 +1,7 @@
 # tableau-vizql-data-service
 Resources to get started with VizQL Data Service (VDS), Tableau's API
 
-This repo is a collection of [code snippets](https://github.com/anyalitica/tableau-vizql-data-service/blob/main/python) and [slides from my talk](https://github.com/anyalitica/tableau-vizql-data-service/blob/main/slides) at the DataFam Tableau Conference'24.
+This repo is a collection of [code snippets](https://github.com/anyalitica/tableau-vizql-data-service/blob/main/python)(**python** folder) and [slides from my talk](https://github.com/anyalitica/tableau-vizql-data-service/blob/main/slides) at the DataFam Tableau Conference'24.
 
 # Useful links to get started with VDS
 
